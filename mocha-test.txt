@@ -3,7 +3,7 @@
     ✔ selects the image with an id of kitty-2
     ✔ selects the image inside the element with an id of basket (via descendent relationship)
     ✔ selects the image based on the respective sibling element
-    1) Selects the image that has an alt attribute value matching "Kitty 5", via the attribute selector
+    ✔ Selects the image that has an alt attribute value matching "Kitty 5", via the attribute selector
 
 
-  4 passing (6ms)
+  5 passing (5ms)
