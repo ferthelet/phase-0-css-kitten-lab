@@ -1,0 +1,6 @@
+  place-kitty.css
+    1) selects the image with a class of kitty-1
+    2) selects the image with an id of kitty-2
+    3) selects the image inside the element with an id of basket (via descendent relationship)
+    4) selects the image based on the respective sibling element
+    5) Selects the image that has an alt attribute value matching "Kitty 5", via the attribute selector
